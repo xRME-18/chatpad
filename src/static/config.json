@@ -61,6 +61,18 @@
       {
         "value": "gpt-4o",
         "label": "GPT-4 omni"
+      },
+      {
+        "value": "gpt-4o-mini",
+        "label": "GPT-4 omni mini"
+      },
+      {
+        "value": "o1-preview",
+        "label": "o1 preview"
+      },
+      {
+        "value": "o1-mini",
+        "label": "o1 mini"
       }
     ],
     "writingCharacters": [
